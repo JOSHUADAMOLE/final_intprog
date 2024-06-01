@@ -4,4 +4,5 @@ Angular 10 Boilerplate - Email Sign Up with Verification, Authentication & Forgo
 
 
 Backend : https://github.com/JOSHUADAMOLE/backend_intprog
+
 Updated Frontend: https://github.com/JOSHUADAMOLE/Angular_frontend
